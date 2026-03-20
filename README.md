@@ -1,10 +1,10 @@
-# 🕳️ Quantum Terminal — A Reality-Bending CLI
+#  Quantum Terminal — A Reality-Bending CLI
 
 > “A terminal where commands are non-deterministic, files behave unpredictably, and reality itself is inconsistent.”
 
 Quantum Terminal is an interactive experience built in Rust that simulates a shell where the very fabric of the virtual environment is unstable. Every command you run influences the "Reality Engine," increasing entropy and causing the system to behave in increasingly unsettling ways.
 
-## 🚀 Features
+##  Features
 
 - **Reality Engine**: A central brain tracking entropy, user habits, and timeline drift.
 - **Schrödinger Files**: A virtual filesystem where files can emerge, disappear, or change content based on the current reality state.
@@ -13,7 +13,7 @@ Quantum Terminal is an interactive experience built in Rust that simulates a she
 - **Time-Dependent `open`**: Access files to find past logs or future records that haven't been written yet.
 - **Glitch Mode**: Visual distortions, flickering text, and ANSI character corruption that increase with entropy.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Rust**: High-performance systems language.
 - **Crossterm**: Terminal control and event handling.
@@ -22,7 +22,7 @@ Quantum Terminal is an interactive experience built in Rust that simulates a she
 - **Rand**: Weighted randomness (controlled chaos).
 - **Serde**: Persistent state management.
 
-## 📦 Usage
+## Usage
 
 1. **Clone the repository.**
 2. **Build and Run**:
@@ -36,7 +36,7 @@ Quantum Terminal is an interactive experience built in Rust that simulates a she
    - `open <file>`: Peek into other timelines.
    - `exit`: Try to escape.
 
-## 🧠 The Reality Engine
+## The Reality Engine
 
 The engine monitors your every move. Repeating the same commands or staying in the terminal too long increases **Entropy**. As entropy rises:
 - Files become less stable.
