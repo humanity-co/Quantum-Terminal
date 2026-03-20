@@ -1,0 +1,16 @@
+{
+  "entropy_level": 0.1,
+  "user_profile": {
+    "interactions": 3,
+    "last_command": "c",
+    "habits": {
+      "hello": 1,
+      "cd": 1,
+      "c": 1
+    }
+  },
+  "timeline_state": {
+    "drift_seconds": 0,
+    "stabilized": true
+  }
+}
